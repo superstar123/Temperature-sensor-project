@@ -1,14 +1,9 @@
 //**************************************************************//
 //Microcontroller			:ATmega32
-//System Clock				:1MHz 
+//System Clock				:12MHz 
 //Project					:LM35 Temperature Sensor Interfacing with ATmega32 and LCD Display
-//Software					:AVR Studio 4
+//Software					:Atmel studio 6.2
 //LCD Data Interfacing		:8-Bit   
-//Author					:Arun Kumar Garg 
-//							:ABLab Solutions
-//							:www.ablab.in
-//							:info@ablab.in
-//Date						:1st January 2012
 //**************************************************************//
 
 #include <stdio.h>
